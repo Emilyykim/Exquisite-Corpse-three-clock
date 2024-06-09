@@ -98,7 +98,8 @@ The game represents the fun and creativity involved in stacking scoops of ice cr
 - Added an array to manage and draw multiple scoops.
 - Enhanced the background and scoop redrawing process for better visual engagement.
 - Improved interactive elements to make the game more responsive and enjoyable.
-
+----------------------------------------------------------------------------------------
+🟩 Stage 3-2
 - Name/Alias: Cat Hayward
 - Github account: https://github.com/cathayward
 - Published webpage for stage 2: https://cathayward.github.io/exquisite-corpse-stage--1---starcycle-/
