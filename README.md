@@ -99,6 +99,18 @@ The game represents the fun and creativity involved in stacking scoops of ice cr
 - Enhanced the background and scoop redrawing process for better visual engagement.
 - Improved interactive elements to make the game more responsive and enjoyable.
 
+- Name/Alias: Cat Hayward
+- Github account: https://github.com/cathayward
+- Published webpage for stage 2: https://cathayward.github.io/exquisite-corpse-stage--1---starcycle-/
+  
+ Stage 3 Dataset Visualization :
+
+I’ll integrate a dataset that relates to astronomical events. For this example, let’s use a dataset containing information about astronomical events (black hole sightings, supernova events, etc.). We’ll visualize this data by displaying the frequency of these events as a bar chart alongside the moving images.
+
+Stage 3 Explanation:
+
+	•	Dataset: Integrated a simple dataset (events) representing frequencies of astronomical events.
+	•	Bar Chart Visualization: Added a drawBarChart function to visualize the dataset as a bar chart at the bottom of the canvas.
 
 ### 🟦 Stage 4
 - Name/Alias:
